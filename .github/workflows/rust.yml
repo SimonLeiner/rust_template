@@ -105,3 +105,6 @@ jobs:
         with:
           command: bench
           args: --verbose
+
+permissions:
+  checks: write
