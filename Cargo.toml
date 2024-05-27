@@ -1,0 +1,13 @@
+[package]
+name = "rust_introduction"
+version = "0.1.0"
+authors = ["Simon Leiner"]
+edition = "2021"
+description = "A project template for Rust."
+documentation = ""
+readme = "README.md"
+keywords = ["template", "rust"]
+
+publish = false
+
+[dependencies]
