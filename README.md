@@ -1,2 +1,2 @@
-# rustintroduction
-Introduction to Rust Programming Language
+# rust_template
+Template to Rust Programming Language
